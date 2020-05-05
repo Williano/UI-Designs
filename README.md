@@ -14,11 +14,11 @@ Sample User Interfaces I designed using Figma
 
 ## Screenshots
 
-GameBoard          |  Job CategoriesHome Screen
+GameBoard          |  Job Categories Screen
 :-------------------------:|:-------------------------:
 ![First Figma Design](https://user-images.githubusercontent.com/19711677/81022717-f0a45800-8e33-11ea-8c6c-4651abd1eb4a.png)|![Job Listings](https://user-images.githubusercontent.com/19711677/81026691-9067e300-8e40-11ea-8153-0030aaf11ae3.png)
 
-Job CategoriesHome Screen  |  Client List Screen
+Job Categories Screen  |  Client List Screen
 :-------------------------:|:-------------------------:
 ![Job Listings](https://user-images.githubusercontent.com/19711677/81029657-75e73700-8e4b-11ea-90b6-646ec42aee43.png)|![Category Jobs](https://user-images.githubusercontent.com/19711677/81029655-71bb1980-8e4b-11ea-98ba-f2dba813932d.png)
 
